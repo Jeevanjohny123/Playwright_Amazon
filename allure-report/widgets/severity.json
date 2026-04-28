@@ -1,0 +1,1 @@
+[{"uid":"760af0863d9ff562","name":"Remove product from cart","time":{"start":1777372823430,"stop":1777372850969,"duration":27539},"status":"passed","severity":"normal"},{"uid":"92331bb0eaf4872f","name":"Login and add product to cart from PDP","time":{"start":1777372850972,"stop":1777372876509,"duration":25537},"status":"passed","severity":"normal"}]

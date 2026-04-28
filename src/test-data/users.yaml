@@ -1,0 +1,8 @@
+users:
+  Jeevan:
+    username: '9497025995'
+    password: Jeevan@123
+
+  InvalidUser:
+    username: problem_user
+    password: secret_sauce
