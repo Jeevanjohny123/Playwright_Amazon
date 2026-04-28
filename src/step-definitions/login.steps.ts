@@ -64,7 +64,7 @@ Then('the cart should be empty', async function(){
 });
 
 Then('I should see the product in the cart', async function () {
-    const result=await cartPage.isProductAdded();;
+    const result=await cartPage.isProductAdded();
     // 
     expect(result).toBeTruthy();
     console.log('Product is added to the cart');
